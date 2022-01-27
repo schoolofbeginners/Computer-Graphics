@@ -1,4 +1,4 @@
-# Computer-Graphics
+# [Computer-Graphics] (https://schoolofbeginners.blogspot.com/search/label/Computer%20Graphics)
 Computer graphics is a branch of computer science that investigates ways for creating and modifying visual images digitally. Although the phrase is most commonly associated with three-dimensional computer graphics, it also includes two-dimensional graphics and image processing.  Source: https://schoolofbeginners.blogspot.com/search/label/Computer%20Graphics
 
 ![alt text](https://qph.fs.quoracdn.net/main-qimg-2944a2ae5d40cc9e61f93aae2216685b-pjlq)
